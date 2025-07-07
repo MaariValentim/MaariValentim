@@ -1,4 +1,4 @@
-# Olá, eu sou [Mariana]! 👋  
+# Olá, eu sou Mariana! 👋  
 ### 🌟 Futura Desenvolvedora Front-End | Estudante de ADS  
 
 📚 Cursando **Análise e Desenvolvimento de Sistemas** desde 2024  
@@ -24,7 +24,7 @@
 ---
 
 ### **📫 Vamos conversar?**  
-💼 **LinkedIn:** [Mariana Valentim ](https://www.linkedin.com/in/mariana-valentim-83b2b9333/)  
+💼 **LinkedIn:** [Mariana Valentim](https://www.linkedin.com/in/mariana-valentim-83b2b9333/)  
 📧 **E-mail:** marianavalentim1000@gmail.com
 
 ---
