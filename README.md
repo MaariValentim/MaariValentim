@@ -12,8 +12,10 @@
 
 ### **🛠️ Projetos em Destaque**  
 🔹 [Projeto em HTML](https://github.com/MaariValentim/DIO-projeto-html-1) - Primeiro projeto em HTML5, feito pelo curso Santander 2025 - Front-End na plataforma DIO  
-🔹 [Projeto Wikipedia com Layout mais Moderno](https://github.com/MaariValentim/DIO--wikipedia-projeto2) - Recriação da interface da Wikipedia com HTML/CSS, focando em responsividade e semântica. 
-🔹 [Portfólio Desenvolvido em Aula](https://github.com/MaariValentim/portfolio) - Criação de um portfólio usando HTML/CSS feito em aula, reforçando os conhecimentos adquiridos. -  
+
+🔹 [Projeto Wikipedia com Layout mais Moderno](https://github.com/MaariValentim/DIO--wikipedia-projeto2) - Recriação da interface da Wikipedia com HTML/CSS, focando em responsividade e semântica.  
+
+🔹 [Portfólio Desenvolvido em Aula](https://github.com/MaariValentim/portfolio) - Criação de um portfólio usando HTML/CSS feito em aula, reforçando os conhecimentos adquiridos.
 
 ---
 
