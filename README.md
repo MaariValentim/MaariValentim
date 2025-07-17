@@ -15,7 +15,7 @@
 
 🔹 [Projeto Wikipedia com Layout mais Moderno](https://github.com/MaariValentim/DIO--wikipedia-projeto2) - Recriação da interface da Wikipedia com HTML/CSS, focando em responsividade e semântica.  
 
-🔹 [Portfólio Desenvolvido em Aula](https://github.com/MaariValentim/portfolio) - Criação de um portfólio usando HTML/CSS feito em aula, reforçando os conhecimentos adquiridos.
+🔹 [Trilha CSS DIO](https://github.com/MaariValentim/trilha-css-desafio-01) - Criação de um site com foco em um CSS responsívo e moderno.
 
 ---
 
