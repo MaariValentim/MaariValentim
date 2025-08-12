@@ -20,8 +20,7 @@
 ---
 
 ### **📊 Minhas Estatísticas no GitHub**  
-[![GitHub Streak](https://streak-stats.demolab.com?user=MaariValentim&theme=dark)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaariValentim&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
+[![Linguagens em Porcentagem](https://github-profile-summary-cards.vercel.app/api/cards/languages-details?username=MaariValentim&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ---
 
