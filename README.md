@@ -20,6 +20,8 @@
 ---
 
 ### **📊 Minhas Estatísticas no GitHub**  
+
+<!-- Gráfico de linguagens moderno (pie chart) -->
 [![Linguagens em Porcentagem](https://github-profile-summary-cards.vercel.app/api/cards/languages-details?username=MaariValentim&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ---
@@ -32,7 +34,4 @@
 
 ### **🎯 Objetivo Atual**  
 ✅ Buscando **estágio em Front-End** para aplicar meus conhecimentos e crescer profissionalmente!  
-📖 Estudando **JavaScript avançado** e planejando iniciar **React.js** em breve.  
-
-
-
+📖 Estudando **JavaScript avançado** e planejando iniciar **React.js** em breve.
