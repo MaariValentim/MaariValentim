@@ -10,19 +10,9 @@
 
 ---
 
-### **🛠️ Projetos em Destaque**  
-🔹 [Projeto em HTML](https://github.com/MaariValentim/DIO-projeto-html-1) - Primeiro projeto em HTML5, feito pelo curso Santander 2025 - Front-End na plataforma DIO  
-
-🔹 [Projeto Wikipedia com Layout mais Moderno](https://github.com/MaariValentim/DIO--wikipedia-projeto2) - Recriação da interface da Wikipedia com HTML/CSS, focando em responsividade e semântica.  
-
-🔹 [Trilha CSS DIO](https://github.com/MaariValentim/trilha-css-desafio-01) - Criação de um site com foco em um CSS responsívo e moderno.
-
----
-
 ### **📊 Minhas Estatísticas no GitHub**  
 
-<!-- Gráfico de linguagens moderno (pie chart) -->
-[![Linguagens em Porcentagem](https://github-profile-summary-cards.vercel.app/api/cards/languages-details?username=MaariValentim&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaariValentim&layout=compact&theme=radical)](https://github.com/MaariValentim)
 
 ---
 
@@ -33,5 +23,5 @@
 ---
 
 ### **🎯 Objetivo Atual**  
-✅ Buscando **estágio em Front-End** para aplicar meus conhecimentos e crescer profissionalmente!  
-📖 Estudando **JavaScript avançado** e planejando iniciar **React.js** em breve.
+✅ Buscando **estágio**  
+📖 Estudando **JavaScript, HTML e CSS** 
