@@ -1,27 +1,12 @@
-# Olá, eu sou Mariana! 👋  
-### 🌟 Futura Desenvolvedora | Estudante de ADS  
+Olá, eu sou Mariana Valentim
 
-📚 Cursando **Análise e Desenvolvimento de Sistemas** desde 2024  
-💻 **construindo meus primeiros projetos em:** 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-🚀 **Próximo passo:** Aprender **React.js** e expandir meus conhecimentos!  
+💻 Futura Desenvolvedora Backend (Node.js)
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+💼 Estagiária como Analista de Sistemas (Znuny | ITIL | ITSM)
 
----
+🚀 Sobre mim
 
-### **📊 Minhas Estatísticas no GitHub**  
+Sou apaixonada por tecnologia e estou em transição para desenvolvimento backend.
+Atualmente, estou construindo projetos com Node.js e aprofundando meus conhecimentos em JavaScript, enquanto aplico no dia a dia conceitos de gestão de serviços de TI com Znuny.
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaariValentim&layout=compact&theme=radical)](https://github.com/MaariValentim)
-
----
-
-### **📫 Vamos conversar?**  
-💼 **LinkedIn:** [Mariana Valentim](https://www.linkedin.com/in/mariana-valentim-83b2b9333/)  
-📧 **E-mail:** marianavalentim1000@gmail.com
-
----
-
-### **🎯 Objetivo Atual**  
-✅ Buscando **estágio**  
-📖 Estudando **JavaScript, HTML e CSS** 
+Tenho experiência com análise de processos, levantamento de requisitos e melhoria contínua — o que me ajuda a desenvolver soluções mais eficientes e alinhadas ao negócio.
