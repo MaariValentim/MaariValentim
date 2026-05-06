@@ -1,4 +1,3 @@
-# 👋 Olá, eu sou Mariana Valentim  
 
 💻 **Futura Desenvolvedora Backend**  
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
