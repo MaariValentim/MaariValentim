@@ -1,5 +1,5 @@
 
-💻 **Futura Desenvolvedora Backend**  
+💻 **Futura Desenvolvedora**  
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 💼 Estagiária como **Analista de Sistemas**  
 
